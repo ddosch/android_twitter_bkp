@@ -10,7 +10,7 @@ Completed user stories:
  * [x] User can view last 25 tweets from their home timeline
    * [x] User should be able to see the user, body and timestamp for tweet
    * [x] User should be displayed the relative timestamp for a tweet "8m", "7h"
-   * [ ] Optional: Links in tweets are clickable and viewable
+   * [x] Optional: Links in tweets are clickable and viewable
  * [ ] User can load more tweets once they reach the bottom of the list using "infinite scroll" pagination
  * [ ] User can compose a new tweet
    * [ ] User can click a “Compose” icon in the Action Bar on the top right
